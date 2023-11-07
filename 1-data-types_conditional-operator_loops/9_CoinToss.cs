@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_9
+class CoinTossProgram
 {
     static void Main()
     {

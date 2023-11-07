@@ -14,7 +14,7 @@ f. If the mid number is less than the desired number, set min to mid + 1.
  */
 using System;
 
-class Program_10
+class BinarySearchProgram
 {
     static void Main()
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_4
+class PowerTableProgram
 {
     static void Main()
     {

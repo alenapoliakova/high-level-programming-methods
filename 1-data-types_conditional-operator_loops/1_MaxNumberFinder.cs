@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_1
+class MaxNumberFinderProgram
 {
     static void Main()
     {

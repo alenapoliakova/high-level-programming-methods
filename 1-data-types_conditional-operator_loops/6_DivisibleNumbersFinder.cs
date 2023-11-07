@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_6
+class DivisibleNumbersFinderProgram
 {
     static void Main()
     {

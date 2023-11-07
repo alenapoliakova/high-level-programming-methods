@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_3
+class TriangleTypeCheckerProgram
 {
     static void Main()
     {

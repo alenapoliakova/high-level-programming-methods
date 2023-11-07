@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_2
+class DivisorsFinderProgram
 {
     static void Main()
     {

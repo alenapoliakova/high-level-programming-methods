@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_8
+class GuessingGameProgram
 {
     static void Main()
     {

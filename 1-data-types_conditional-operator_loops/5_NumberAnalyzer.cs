@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program_5
+class NumberAnalyzerProgram
 {
     static void Main()
     {
